@@ -6,3 +6,6 @@ def displays_guests():
 
 def display_first_name_of_guests():
     pass
+
+def hide_personal_info_of_guests():
+    pass
