@@ -3,3 +3,6 @@
 
 def displays_guests():
     pass
+
+def display_first_name_of_guests():
+    pass
