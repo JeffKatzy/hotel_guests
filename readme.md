@@ -4,3 +4,5 @@
 * git commit -m 'add feature' - makes the commit of the staged files
 * git log - shows a log of all of the commit 
 * git show -> show changes made in the most recent commit
+
+

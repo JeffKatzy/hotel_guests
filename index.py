@@ -9,3 +9,11 @@ def display_first_name_of_guests():
 
 def hide_personal_info_of_guests():
     pass
+
+
+
+# bug, feature
+
+# git add guest.py
+# git add user.py
+# git commit -m 'hid personal info'
