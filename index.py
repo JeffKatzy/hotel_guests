@@ -10,6 +10,8 @@ def display_first_name_of_guests():
 def hide_personal_info_of_guests():
     pass
 
+def add_feature_two():
+    pass
 
 
 # bug, feature
